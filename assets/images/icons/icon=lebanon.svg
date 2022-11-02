@@ -1,0 +1,15 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon=lebanon" clip-path="url(#clip0_105_1817)">
+<path id="Vector" d="M25 50C38.8071 50 50 38.8071 50 25C50 11.1929 38.8071 0 25 0C11.1929 0 0 11.1929 0 25C0 38.8071 11.1929 50 25 50Z" fill="#F0F0F0"/>
+<g id="Group">
+<path id="Vector_2" d="M25 0C15.0885 0 6.5244 5.76807 2.48065 14.1305H47.5192C43.4756 5.76807 34.9114 0 25 0V0Z" fill="#D80027"/>
+<path id="Vector_3" d="M25 50.0001C34.9114 50.0001 43.4756 44.232 47.5193 35.8696H2.48065C6.5244 44.232 15.0885 50.0001 25 50.0001Z" fill="#D80027"/>
+</g>
+<path id="Vector_4" d="M31.5218 29.3477L25 17.3911L18.4782 29.3477H23.3695V32.6085H26.6305V29.3477H31.5218Z" fill="#6DA544"/>
+</g>
+<defs>
+<clipPath id="clip0_105_1817">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>

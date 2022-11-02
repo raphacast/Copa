@@ -1,0 +1,14 @@
+<svg width="50" height="51" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon=latvia" clip-path="url(#clip0_105_1812)">
+<path id="Vector" d="M25 50.9893C38.8071 50.9893 50 39.7964 50 25.9893C50 12.1821 38.8071 0.989258 25 0.989258C11.1929 0.989258 0 12.1821 0 25.9893C0 39.7964 11.1929 50.9893 25 50.9893Z" fill="#F0F0F0"/>
+<g id="Group">
+<path id="Vector_2" d="M25 0.989258C13.4493 0.989258 3.72996 8.82334 0.861206 19.4675H49.1388C46.27 8.82334 36.5507 0.989258 25 0.989258Z" fill="#A2001D"/>
+<path id="Vector_3" d="M25 50.9895C36.5507 50.9895 46.27 43.1554 49.1387 32.5112H0.861206C3.72996 43.1553 13.4493 50.9895 25 50.9895Z" fill="#A2001D"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_105_1812">
+<rect width="50" height="50" fill="white" transform="translate(0 0.989258)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon=benin" clip-path="url(#clip0_105_972)">
+<path id="Vector" d="M16.3044 22.8262L18.4784 49.1389C20.5578 49.6993 22.7435 50.0001 25 50.0001C38.8071 50.0001 50 38.8071 50 25.0001L16.3044 22.8262Z" fill="#D80027"/>
+<path id="Vector_2" d="M16.3044 25L18.4783 0.86123C20.5578 0.300781 22.7435 0 25 0C38.8071 0 50 11.193 50 25H16.3044Z" fill="#FFDA44"/>
+<path id="Vector_3" d="M0 25.0001C0 36.5508 7.83408 46.2701 18.4782 49.1389V0.861328C7.83408 3.73008 0 13.4494 0 25.0001Z" fill="#6DA544"/>
+</g>
+<defs>
+<clipPath id="clip0_105_972">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
